@@ -23,3 +23,19 @@ AcSolution\Ac.WebService\bin
 AcSolution\Ac.WebService\obj
 
 AcSolution\packages
+AcSolution/Ac.Business/bin/
+AcSolution/Ac.Business/obj/
+AcSolution/Ac.Cache/bin/
+AcSolution/Ac.Cache/obj/
+AcSolution/Ac.Common/bin/
+AcSolution/Ac.Common/obj/
+AcSolution/Ac.DataAccess/bin/
+AcSolution/Ac.DataAccess/obj/
+AcSolution/Ac.DataModel/bin/
+AcSolution/Ac.DataModel/obj/
+AcSolution/Ac.WebService/obj/
+AcSolution/Ac.WebService/bin/
+AcSolution/Ac.WcfService/bin/
+AcSolution/Ac.IWcfService/obj/
+AcSolution/Ac.IWcfService/bin/
+AcSolution/Ac.WcfService/obj/
