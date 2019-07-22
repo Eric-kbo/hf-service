@@ -4,3 +4,9 @@ C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfSe
 C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.csproj.CoreCompileInputs.cache
 C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.dll
 C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.pdb
+E:\Project\Git\hf-service\AcSolution\Ac.IWcfService\bin\Debug\Ac.IWcfService.dll
+E:\Project\Git\hf-service\AcSolution\Ac.IWcfService\bin\Debug\Ac.IWcfService.pdb
+E:\Project\Git\hf-service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.csprojAssemblyReference.cache
+E:\Project\Git\hf-service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.csproj.CoreCompileInputs.cache
+E:\Project\Git\hf-service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.dll
+E:\Project\Git\hf-service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.pdb
