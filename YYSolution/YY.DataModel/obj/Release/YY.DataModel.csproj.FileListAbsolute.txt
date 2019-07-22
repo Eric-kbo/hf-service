@@ -1,6 +1,0 @@
-G:\Git\carwash\trunk\YYSolution\YY.DataModel\bin\Release\YY.DataModel.dll
-G:\Git\carwash\trunk\YYSolution\YY.DataModel\bin\Release\YY.DataModel.pdb
-G:\Git\carwash\trunk\YYSolution\YY.DataModel\obj\Release\YY.DataModel.csprojAssemblyReference.cache
-G:\Git\carwash\trunk\YYSolution\YY.DataModel\obj\Release\YY.DataModel.csproj.CoreCompileInputs.cache
-G:\Git\carwash\trunk\YYSolution\YY.DataModel\obj\Release\YY.DataModel.dll
-G:\Git\carwash\trunk\YYSolution\YY.DataModel\obj\Release\YY.DataModel.pdb

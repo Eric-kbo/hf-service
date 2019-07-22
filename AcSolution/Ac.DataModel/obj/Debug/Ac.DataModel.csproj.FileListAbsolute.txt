@@ -1,0 +1,5 @@
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.DataModel\bin\Debug\Ac.DataModel.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.DataModel\bin\Debug\Ac.DataModel.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.DataModel\obj\Debug\Ac.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.DataModel\obj\Debug\Ac.DataModel.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.DataModel\obj\Debug\Ac.DataModel.pdb

@@ -1,0 +1,16 @@
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.Business.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.Business.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\obj\Debug\Ac.Business.csproj.CoreCompileInputs.cache
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\obj\Debug\Ac.Business.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\obj\Debug\Ac.Business.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.Common.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.DataAccess.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.DataModel.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\MySql.Data.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Google.Protobuf.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.Common.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.DataAccess.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\Ac.DataModel.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\bin\Debug\MySql.Data.xml
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\obj\Debug\Ac.Business.csprojAssemblyReference.cache
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Business\obj\Debug\Ac.Business.csproj.CopyComplete

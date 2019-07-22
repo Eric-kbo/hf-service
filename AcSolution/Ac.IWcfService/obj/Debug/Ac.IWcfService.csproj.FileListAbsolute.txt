@@ -1,0 +1,6 @@
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\bin\Debug\Ac.IWcfService.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\bin\Debug\Ac.IWcfService.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.csprojAssemblyReference.cache
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.csproj.CoreCompileInputs.cache
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.IWcfService\obj\Debug\Ac.IWcfService.pdb

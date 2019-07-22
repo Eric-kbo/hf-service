@@ -1,0 +1,6 @@
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Common\bin\Debug\Ac.Common.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Common\bin\Debug\Ac.Common.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Common\obj\Debug\Ac.Common.csproj.CoreCompileInputs.cache
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Common\obj\Debug\Ac.Common.dll
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Common\obj\Debug\Ac.Common.pdb
+C:\Users\v_xbzzhou\Desktop\Service\AcSolution\Ac.Common\obj\Debug\Ac.Common.csprojAssemblyReference.cache
