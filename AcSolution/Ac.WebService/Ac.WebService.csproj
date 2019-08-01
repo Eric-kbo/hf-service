@@ -14,7 +14,7 @@
     <RootNamespace>Ac.WebService</RootNamespace>
     <AssemblyName>Ac.WebService</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
-    <UseIISExpress>false</UseIISExpress>
+    <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
@@ -68,7 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="AcService.svc" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -107,7 +109,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>17292</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost/Ac.WebService</IISUrl>
+          <IISUrl>http://localhost:17292/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

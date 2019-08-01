@@ -255,8 +255,8 @@ namespace Ac.DataAccess
         private static void PrepareCommand(MySqlCommand cmd, MySqlConnection conn, MySqlTransaction trans, CommandType cmdType, string cmdText, MySqlParameter[] cmdParms)
         {
 
-            if (conn.State != ConnectionState.Open)
-                conn.Open();
+            //if (conn.State != ConnectionState.Open)
+            //    conn.Open();
 
             cmd.Connection = conn;
             cmd.CommandText = cmdText;
