@@ -8,16 +8,16 @@ namespace Ac.DataModel.user
 {
     public class userEntity
     {
-        public int uid { get; set; }
-        public string openid { get; set; }
-        public string name { get; set; }
-        public string nickName { get; set; }
-        public int gender { get; set; }
-        public string province { get; set; }
-        public string city { get; set; }
-        public string country { get; set; }
-        public string lang { get; set; }
-        public string session_key { get; set; }
-        public string pwd { get; set; }
+        public dynamic uid { get; set; }
+        public dynamic openid { get; set; }
+        public dynamic name { get; set; }
+        public dynamic nickName { get; set; }
+        public dynamic gender { get; set; }
+        public dynamic province { get; set; }
+        public dynamic city { get; set; }
+        public dynamic country { get; set; }
+        public dynamic lang { get; set; }
+        public dynamic session_key { get; set; }
+        public dynamic pwd { get; set; }
     }
 }
